@@ -10,6 +10,20 @@
       "homepage": "https://candyblue.agency"
     }
   ],
+  "funding": [
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/candyblue"
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/wearecandyblue/dashboard"
+    },
+    {
+      "type": "other",
+      "url": "https://www.paypal.me/wearecandyblue"
+    }
+  ],
   "require": {
     "getkirby/composer-installer": "^1.1"
   },
